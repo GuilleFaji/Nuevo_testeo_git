@@ -1,4 +1,6 @@
-# Nuevo_testeo_git
-xxx
-testeo desde vscode despues de clone
-otro testeo para ver la variación
+# test-deploy-lamnda
+
+HOLA
+
+git config --global user.email "fernando.decalle@gmail.com"
+git config --global user.name "Fernando"
